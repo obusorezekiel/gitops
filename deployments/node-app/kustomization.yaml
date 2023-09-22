@@ -15,4 +15,4 @@ images:
   - name: obusorezekiel/e-commerce-front-end
     newTag: d7ca58953c20a4144b80f59c2bcdfe71a6ff5979
   - name: obusorezekiel/e-commerce-back-end
-    newTag: 6cc2fdc7b782b7b6b0baf2dc08ad025fc10003ca
+    newTag: 8f57dcabb442aafba810f645516de82bf692191f
