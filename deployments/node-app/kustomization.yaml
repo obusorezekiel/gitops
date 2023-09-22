@@ -13,6 +13,6 @@ patchesStrategicMerge:
   - fe-deploy.yaml
 images:
   - name: obusorezekiel/e-commerce-front-end
-    newTag: d7ca58953c20a4144b80f59c2bcdfe71a6ff5979
+    newTag: 0ebe4cb3d7d903bc707ed4854a9baa0e35fce90d
   - name: obusorezekiel/e-commerce-back-end
     newTag: 8f57dcabb442aafba810f645516de82bf692191f
