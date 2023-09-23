@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TryToLearnProgramming/gitops
+    repoURL: https://github.com/obusorezekiel/gitops
     path: deployments/node-app
-    targetRevision: k-argo
+    targetRevision: main
     directory:
       recurse: false
       jsonnet: {}
